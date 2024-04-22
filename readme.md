@@ -1,5 +1,3 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -121,10 +119,5 @@ ALGOLIA_APP_ID = Enter your algolia app_id
 ALGOLIA_SECRET = Enter your algolia secret
 ```
 
-## Package used
-
- Stripe payment : https://github.com/cartalyst/stripe-laravel
-
- Shopping cart  : https://github.com/hardevine/LaravelShoppingcart
 
 
